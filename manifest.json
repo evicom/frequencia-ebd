@@ -2,13 +2,16 @@
   "name": "Frequência EBD",
   "short_name": "EBD",
   "description": "Controle de frequência da Escola Bíblica Dominical 2026",
-  "start_url": "./index.html",
+  "start_url": "https://github.com/evicom/frequencia-ebd/blob/main/index.html",
   "display": "standalone",
   "background_color": "#1a2435",
   "theme_color": "#1a2435",
   "orientation": "portrait-primary",
   "lang": "pt-BR",
-  "categories": ["education", "utilities"],
+  "categories": [
+    "education",
+    "utilities"
+  ],
   "icons": [
     {
       "src": "icons/icon-72.png",
